@@ -36,6 +36,5 @@ public class PlayerMovement : MonoBehaviour
 
         controller.Move(velocity * speed * Time.deltaTime * Time.deltaTime);
 
-        
     }
 }
