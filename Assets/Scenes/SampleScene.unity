@@ -483,6 +483,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mouseSensitivity: 300
   playerBody: {fileID: 382106402}
+--- !u!1 &1254747907 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3133498875991405556, guid: 53637c7a621d8be4e84b8899bf18d2b6, type: 3}
+  m_PrefabInstance: {fileID: 863896595}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1254747909
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1254747907}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3909233067320746374, guid: 53637c7a621d8be4e84b8899bf18d2b6, type: 3}
 --- !u!1 &1464712550
 GameObject:
   m_ObjectHideFlags: 0
